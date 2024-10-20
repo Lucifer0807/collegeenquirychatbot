@@ -72,4 +72,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For any questions or feedback, feel free to reach out:
 
 - Email: [raghavkhandelwal39@gmail.com]
-- LinkedIn: [[LinkedIn profile](https://www.linkedin.com/in/raghav-khandelwal-a42545228/)]
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/raghav-khandelwal-a42545228/)
